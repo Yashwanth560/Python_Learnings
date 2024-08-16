@@ -18,7 +18,7 @@ def show_tasks():
 def main():
     while True:
         print("\\nTo-Do List Application") 
-        print("1 1. Add Task")
+        print("1. Add Task")
         print("2. Mark Task as Done")
         print("3. Delete Task") 
         print("4. Show Tasks")
